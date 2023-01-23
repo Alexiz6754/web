@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+
+<user id="0">
+  <name>Cерков Валентин</name>
+  <city>Сочи</city>
+  <birth>2000-01-01</birth>
+</user>
+<user id="1">
+  <name>Седымов Алексей</name>
+  <city>Омск</city>
+  <birth>2003-01-03</birth>
+</user>
+<user id="2">
+  <name>Гарри Поттер</name>
+  <city>Лондон</city>
+  <birth>1960-01-01</birth>
+</user>
+
+</users>
